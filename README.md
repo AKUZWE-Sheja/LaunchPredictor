@@ -1,2 +1,2 @@
-# LaunchPredictor
+# Predictor
 Some practicals to being senior
