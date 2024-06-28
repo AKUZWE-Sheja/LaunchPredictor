@@ -1,2 +1,2 @@
 # Predictor
-Some practicals to being senior
+Some practicals to being a senior
